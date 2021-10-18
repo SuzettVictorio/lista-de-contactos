@@ -1,0 +1,31 @@
+body{ 
+    background-color: rgb(91, 158, 237);
+}
+
+.contactos{
+    background-color: rgb(255, 255, 255);
+    margin: 100px 550px;
+    width: 350px;
+    padding: 10px 15px;
+    border: solid 1px #ddd;
+    border-radius: 4px;
+    
+}
+ul{
+    padding-left: 0px;
+    list-style-type: none;
+}
+li{ 
+    border-bottom: solid 1px #ddd;
+    padding: 15px;
+}
+img{
+    border-radius: 50%;
+}
+.user{
+    
+    height:30px;
+}
+.resp{
+   color: rgba(150, 150, 150, 0.92);
+}
